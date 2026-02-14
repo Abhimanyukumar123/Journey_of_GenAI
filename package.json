@@ -1,0 +1,22 @@
+{
+  "name": "genai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhimanyukumar123/Journey_of_GenAI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhimanyukumar123/Journey_of_GenAI/issues"
+  },
+  "homepage": "https://github.com/Abhimanyukumar123/Journey_of_GenAI#readme",
+  "dependencies": {
+    "@google/genai": "^1.41.0"
+  }
+}
